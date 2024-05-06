@@ -28,7 +28,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Fredincorporation/makanaki/makanaki"
+    "url": "https://github.com/Fredincorporation/makanaki/tree/main/makanaki"
   },
   "keywords": [
     "stuff"
