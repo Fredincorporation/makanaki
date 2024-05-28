@@ -1,6 +1,6 @@
 {
   "name": "makanaki",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -28,7 +28,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Fredincorporation/makanaki/makanaki"
+    "url": "https://github.com/Fredincorporation/makanaki"
   },
   "keywords": [
     "stuff"
